@@ -25,3 +25,9 @@ File
    IMG_NAME = Image to deploy name
 
 2. <a href="https://github.com/0psdev/demo03/blob/main/main.tf" target="_blank">main.tf</a> This file is include all configuration that need to deploy webapp
+
+Step
+1. logon Azure cloudshell
+2. Upload file (main and variables)
+3. Run terraform init
+4. Run terraform apply -auto-approve
