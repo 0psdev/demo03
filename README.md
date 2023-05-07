@@ -2,8 +2,7 @@
 How to use Terraform deploy Azure webapp.
 
 File
-1. variables.tf
-   This file is include all variable that need to use deploy webapp.
+1. variables.tf -> This file is include all variable that need to use deploy webapp.
    
 SUB_ID = subscription ID
 
@@ -25,5 +24,4 @@ WEB_NAME = Website name
 
 IMG_NAME = Image to deploy name
 
-2. main.tf
-   This file is include all configuration that need to deploy webapp
+2. main.tf -> This file is include all configuration that need to deploy webapp
