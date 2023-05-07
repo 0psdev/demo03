@@ -1,5 +1,8 @@
-# demo03
+## demo03
 How to use Terraform deploy Azure webapp.
+
+## Introduction
+This repo use for study Terraform work with Azure cloud.
 
 ### File lists
 1. <a href="https://github.com/0psdev/demo03/blob/main/variables.tf" target="_blank">variables.tf</a> -> This file is include all variable that need to use deploy webapp.
