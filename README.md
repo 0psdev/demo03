@@ -1,7 +1,7 @@
 # demo03
 How to use Terraform deploy Azure webapp.
 
-### File list
+### File lists
 1. <a href="https://github.com/0psdev/demo03/blob/main/variables.tf" target="_blank">variables.tf</a> -> This file is include all variable that need to use deploy webapp.
    
    SUB_ID = subscription ID
