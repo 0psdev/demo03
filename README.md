@@ -1,7 +1,7 @@
 # demo03
 How to use Terraform deploy Azure webapp.
 
-File
+### File list
 1. <a href="https://github.com/0psdev/demo03/blob/main/variables.tf" target="_blank">variables.tf</a> -> This file is include all variable that need to use deploy webapp.
    
    SUB_ID = subscription ID
@@ -26,7 +26,7 @@ File
 
 2. <a href="https://github.com/0psdev/demo03/blob/main/main.tf" target="_blank">main.tf</a> This file is include all configuration that need to deploy webapp
 
-Step
+### Step to run
 1. logon Azure cloudshell
 2. Upload file (main and variables)
 3. Run terraform init
